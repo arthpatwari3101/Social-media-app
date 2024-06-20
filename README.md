@@ -1,3 +1,1 @@
-
-ChatGPT
 Our social media app is built on the robust MERN stack (MongoDB, Express.js, React, Node.js), with real-time capabilities enabled by Socket.io and a sleek user interface designed using Chakra UI. It features secure authentication and authorization with JWT, allowing users to create, delete, like/unlike posts, and comment on them. Users can follow/unfollow others, freeze their accounts temporarily, and switch between dark/light modes for a personalized experience. The app is fully responsive, ensuring seamless usage across all devices. Additionally, it includes a real-time chat feature with image support, seen/unseen message status, and notification sounds to keep users engaged and informed.
